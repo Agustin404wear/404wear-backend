@@ -1,0 +1,7 @@
+
+[build]
+  command = "npm install"
+  start = "npm start"
+
+[settings]
+  nodeVersion = "18"
